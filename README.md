@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack em Treinamento`**
 
 💻 Me chamo Vinicius Alves da Silva, tenho 21 anos e sou natural do ABC Paulista (São Paulo).  
+
 🎓 Atualmente, curso Análise e Desenvolvimento de Sistemas pela UMESP.  
 
 🚀 Sou apaixonado por tecnologia e estou em constante evolução na área de programação, desenvolvendo projetos e adquirindo experiência prática.  
