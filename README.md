@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Eai, eu sou o Vinicius Alves
+# 👨🏻‍💻 Eaii, eu sou o Vinicius Alves
 
 **`Desenvolvedor FullStack em Treinamento`**
 
