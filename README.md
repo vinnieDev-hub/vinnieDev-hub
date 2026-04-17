@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Eaii, eu sou o Vinicius Alves
 
-**`Desenvolvedor FullStack em Treinamento`**
+**`Desenvolvedor FullStack em Formação`**
 
 💻 Me chamo Vinicius Alves da Silva, tenho 21 anos e sou natural do ABC Paulista (São Paulo).  
 
