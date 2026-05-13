@@ -128,16 +128,16 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p>
   <img
-    width="50%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    width="45%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight"
   />
 </p>
 
-<p align="center">
+<p>
   <img
-    width="50%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&langs_count=7&theme=tokyonight"
+    width="45%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&theme=tokyonight"
   />
 </p>
