@@ -130,12 +130,14 @@
 
 <p align="center">
   <img
-    height="180em"
+    width="50%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
+</p>
 
+<p align="center">
   <img
-    height="180em"
+    width="50%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&langs_count=7&theme=tokyonight"
   />
 </p>
