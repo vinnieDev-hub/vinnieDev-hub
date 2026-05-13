@@ -128,22 +128,14 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnieDev-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&langs_count=7&theme=tokyonight"
   />
-
-          
 </p>
-
