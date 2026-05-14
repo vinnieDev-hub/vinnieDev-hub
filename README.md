@@ -137,7 +137,7 @@
 
 <p>
   <img
-    width="45%"
+    width="55%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&theme=tokyonight"
   />
 </p>
