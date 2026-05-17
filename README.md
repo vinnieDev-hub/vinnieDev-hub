@@ -130,14 +130,14 @@
 
 <p>
   <img
-    width="45%"
+    width="65%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinnieDev-hub&show_icons=true&theme=tokyonight"
   />
 </p>
 
 <p>
   <img
-    width="50%"
+    width="60%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinnieDev-hub&layout=compact&theme=tokyonight"
   />
 </p>
