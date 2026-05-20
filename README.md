@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack em Formação`**
 
-💻 Me chamo Vinicius Alves da Silva, tenho 21 anos e sou natural do ABC Paulista (São Paulo).  
+💻 Me chamo Vinicius Alves da Silva, sou natural do ABC Paulista (São Paulo).  
 
 🎓 Atualmente, curso Análise e Desenvolvimento de Sistemas pela UMESP.  
 
