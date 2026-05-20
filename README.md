@@ -10,7 +10,6 @@
 
 🎯 Meu objetivo é me tornar um desenvolvedor fullstack e crescer profissionalmente na área de tecnologia.  
 
-📱 Também compartilho minha jornada no Instagram: [viine_alvess](https://www.instagram.com/viine_alvess/)
     
 
 ### 🤖 Linguagens e Tecnologias
